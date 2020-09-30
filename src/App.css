@@ -1,0 +1,24 @@
+.container{
+  display: block;
+  
+}
+.popup{
+  display: flex;
+}
+.none{
+  display: none;
+}
+.btn{
+  height: 100px;
+  width: 200px;
+  background-color: rgb(255, 255, 255);
+  border: solid 1px gray;
+  font-size: 34px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: gray;
+}
+.text{
+  font-family:Arial, Helvetica, sans-serif ;
+  color: gray;
+  margin-left: 20px;
+}
